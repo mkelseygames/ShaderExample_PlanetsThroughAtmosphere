@@ -1,6 +1,6 @@
 ﻿// mkelsey - PTA_1P3 - UPDATE: Normal Affector Testing [P11]. 
 // "Planet Through Atmosphere" surface shader, designed to 
-// emmulate planetary atmosphere scattering on large objects.
+// emulate planetary atmosphere scattering on large objects.
 
 Shader "Custom/PTA_1P3"
 {
